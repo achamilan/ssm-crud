@@ -1,4 +1,4 @@
-CREATE TABLE `tbl_dept` (
+CREATE TABLE `tbl_emp` (
 `emp_id`  int(10) NOT NULL AUTO_INCREMENT ,
 `emp_name`  varchar(20) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL ,
 `gender`  char(2) CHARACTER SET utf8 COLLATE utf8_general_ci NULL DEFAULT NULL ,
